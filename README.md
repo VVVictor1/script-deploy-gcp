@@ -54,9 +54,10 @@ This script performs the following:
 
   ### Option 2: From Windows CMD with Google Cloud SDK
 
-  1.Install Google Cloud SDK
-  2.gcloud auth login
-  3.gcloud config set project [your-project-id]
-  4.bash deploy_victorVM.sh
+1. Install Google Cloud SDK  
+2. `gcloud auth login`  
+3. `gcloud config set project [your-project-id]`  
+4. `bash deploy_victorVM.sh`
+
 
 
